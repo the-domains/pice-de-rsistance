@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T17:03:28.244Z'
+datePublished: '2016-07-22T17:03:28.291Z'
 sourcePath: >-
   _posts/2016-04-16-the-design-schools-ultimate-guide-to-designing-with-backgro.md
 inFeed: true
@@ -34,7 +34,7 @@ author:
   - name: Poppie Pack
     url: 'https://designschool.canva.com/blog/author/poppie/'
     avatar: {}
-dateModified: '2016-07-22T17:03:26.198Z'
+dateModified: '2016-07-22T17:03:26.661Z'
 title: >-
   The Design School's Ultimate Guide to Designing With Backgrounds [With
   Ready-to-Use Templates]
